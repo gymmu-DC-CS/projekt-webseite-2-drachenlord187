@@ -10,5 +10,5 @@
 - letzter Abschnitt geschrieben 
 - wollte vier Kästen welche dann zu den vier verschieden Themen führen 
   ( musste dafür ChatGPT fragen wie man zu so etwas kommt und lasste es mir schritt für schritt erklären)
-- habe gelernt wie man die ID verwendet
-
+  1.  habe gelernt wie man die ID verwendet
+  2. 
