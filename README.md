@@ -15,3 +15,5 @@
   3. CSS kam ins spiel da noch keine Kästchen zu sehen waren
   19.03.26
   - CSS von HTML in style.css kopiert
+  - musste viele anpssungen mahen 
+  - Bild eingefügr 
