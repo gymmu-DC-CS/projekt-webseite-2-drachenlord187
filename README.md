@@ -13,7 +13,10 @@
   1.  habe gelernt wie man die ID verwendet
   2. vier Kästchen hinzugefügt
   3. CSS kam ins spiel da noch keine Kästchen zu sehen waren
-  19.03.26
+19.03.26
   - CSS von HTML in style.css kopiert
-  - musste viele anpssungen mahen 
-  - Bild eingefügr 
+  - musste viele anpssungen machen 
+  - gelernt wie man ein Bild oben über die ganze breite einfügt 
+20.3.26 
+- Nachgeschaut wie man den Header über Bild macht 
+- 
