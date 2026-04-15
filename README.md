@@ -18,6 +18,7 @@
 - musste viele Anpssungen machen 
   - HTML und CSS miteinander verbunden wil sonst nichts passiert ist 
 - gelernt wie man ein Bild oben über die ganze breite einfügt 
+
 20.3.26 
 - Nachgeschaut wie man den Header über Bild macht 
 - Bild hat nicht mehr funktioniert aber rausgefunden wie es funktioniert 
@@ -27,5 +28,9 @@
 - noch etwas in js eingefügt 
   - Tutorial geschaut
   - mit andernen Ordnern verbunden
-  - kleine Untertitel geschrieben an manchen Stellen 
+  
+15.04.16
+- kleine Untertitel geschrieben an manchen Stellen 
 - Bildquelle angepasst
+- das scrollen war sehr ruckartig und es teleportierte und wollte es weicher machen 
+  - chatgpt nach Erklärug gefragt 
