@@ -29,5 +29,3 @@
   - mit andernen Ordnern verbunden
   - kleine Untertitel geschrieben an manchen Stellen 
 - Bildquelle angepasst
-
-
